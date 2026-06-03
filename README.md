@@ -215,6 +215,6 @@ cafe-torrido-network/
 ## Autor
 
 **Gabriel Anacleto**
-[LinkedIn](https://linkedin.com/in/gabriel-anacleto-03a711176/) · [Email](Gabrielanacletocontpage@gmail.com)
+[LinkedIn](https://linkedin.com/in/gabriel-anacleto-network/) · [Email](Gabrielanacletocontpage@gmail.com)
 
 *Projeto desenvolvido para fins educacionais e profissionais - simulação no Cisco Packet Tracer.*
