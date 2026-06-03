@@ -147,6 +147,7 @@ Rede segmentada em **7 VLANs** com firewall de perímetro dual WAN, roteamento i
 ## Estrutura do Repositório
 
 cafe-torrido-network/
+
 ├── simulation/
 
 │   └── cafe-torrido.pkt           # Arquivo Cisco Packet Tracer
