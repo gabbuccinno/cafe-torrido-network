@@ -148,15 +148,25 @@ Rede segmentada em **7 VLANs** com firewall de perímetro dual WAN, roteamento i
 
 cafe-torrido-network/
 ├── simulation/
+
 │   └── cafe-torrido.pkt           # Arquivo Cisco Packet Tracer
+
 ├── docs/
+
 │   ├── guia-configuracao.pdf      # Comandos completos por dispositivo
+
 │   ├── guia-debug.pdf             # Problemas, causas raiz e soluções
+
 │   ├── plano-etiquetagem.pdf      # Etiquetas de dispositivos e cabos
+
 │   ├── topologia.png              # Visão geral da topologia
+
 │   ├── vlans.png                  # Segmentação de VLANs
+
 │   ├── firewall-block.png         # ASA bloqueando tráfego não autorizado
+
 │   └── nat-translations.png       # Tabela de traduções NAT
+
 └── README.md
 
 ## Testes de Validação
